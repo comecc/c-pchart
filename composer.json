@@ -3,7 +3,7 @@
     "license": "GPL-3.0",
     "type": "project",
     "description": "Port of \"pChart\" library into PHP 5",
-    "keywords": ["pchart", "pChart","statistics","charts","CpChart","c-pChart"],
+    "keywords": ["pchart", "pChart","statistics","charts","CpChart","c-pChart"."comeccpchart"],
     "homepage": "https://github.com/comecc/c-pchart",
     "authors": [
         {
